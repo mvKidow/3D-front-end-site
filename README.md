@@ -7,6 +7,7 @@ Got it, here's the complete updated README.md file for your 3D portfolio project
 <div align="center">
   <h3 align="center">3D Portfolio</h3>
 
+
   <p align="center">
     An interactive 3D portfolio website built with React, Three.js, and Tailwind CSS.
   </p>
@@ -37,6 +38,8 @@ Got it, here's the complete updated README.md file for your 3D portfolio project
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
+ 
+
 </details>
 
 <!-- ABOUT THE PROJECT -->
@@ -92,14 +95,6 @@ The 3D portfolio website allows users to:
 - [ ] Animated transitions and effects
 - [ ] Intelligent lighting and rendering
 - [ ] Integrated analytics and tracking
-
-See the [open issues](https://github.com/your_username/3d-portfolio/issues) for a full list of proposed features and known issues.
-
-
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
 
 
 <!-- ACKNOWLEDGMENTS -->
